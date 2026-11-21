@@ -1,0 +1,30 @@
+{
+  "id": "/Space-lab/",
+  "name": "Space Lab - 2D Science Sandbox",
+  "short_name": "Space Lab",
+  "description": "Explore planets, gravity, black holes, orbits and light in an interactive 2D science sandbox.",
+  "start_url": "/Space-lab/",
+  "scope": "/Space-lab/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050816",
+  "theme_color": "#071B3D",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "games", "science", "entertainment"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/Space-lab/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Space-lab/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
